@@ -42,3 +42,10 @@ You can find the below table for the Food Items that you should definately try:
 | Maggie | Maggie point, DLF | INR 50 |
 | Ghee Idly | Tiffins point, DLF | INR 100 |
 | Dosa | Ram Ki Bandi, Hyderabad | INR 100 |
+
+---
+
+# Quotes
+
+> "Don't let someone be a priority when all you are to them is an option." -*Jay Shetty*</br>
+> "I once read that people who study others are wise but those who study themselves are enlightened." -*Robin Sharma*
