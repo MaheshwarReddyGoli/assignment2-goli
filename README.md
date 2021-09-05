@@ -14,3 +14,16 @@ whenever i feel stress, i love to visit my Home for relaxation.
   2. Take a flight to Chicago and catch the connecting flight to Hyderabad, India.
   3. Come out from the airport and catch a Airport Bus to MGBS.
   4. From MGBS, change to other bus to vemullapalli.
+  
+* list of items to be purchased:
+  * Groceries:
+    * Rice
+    * Vegetables
+    * Snacks
+    * Meat
+  * Drinks:
+    * Mocktails
+    * Wine
+    * Beer
+  * Grill Set.
+  * Outdoor Tent Set with Chairs.
