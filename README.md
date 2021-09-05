@@ -29,3 +29,16 @@ whenever i feel stress, i love to visit my Home for relaxation.
   * Outdoor Tent Set with Chairs.
   
 **[AboutMe.md](AboutMe.md)**
+
+---
+
+# Here are the 4 Food/Drinks that i recommand someone to try in their lifetime.
+
+You can find the below table for the Food Items that you should definately try:
+
+| Food/Drink | Location | Expected Price |
+| :--- | :---: | :--- |
+| Biryani | Paradise, Hyderabad | INR 350 |
+| Maggie | Maggie point, DLF | INR 50 |
+| Ghee Idly | Tiffins point, DLF | INR 100 |
+| Dosa | Ram Ki Bandi, Hyderabad | INR 100 |
