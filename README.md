@@ -11,9 +11,13 @@ whenever i feel stress, i love to visit my Home for relaxation.
 
 # Directions for traveling from Maryville to Vemullapalli.
   1. Catch a Cab from Maryville to Kansas-city Airport.
-  2. Take a flight to Chicago and catch the connecting flight to Hyderabad, India.
-  3. Come out from the airport and catch a Airport Bus to MGBS.
-  4. From MGBS, change to other bus to vemullapalli.
+  2. Travel by flights:
+     1. First flight from kansas-city airport to chicago.
+     2. Second flight from chicago to hyderabad.
+  3. Come out from the airport and catch the following buses:
+     1. Airport Bus to MGBS.
+     2. MGBS to Vemullapalli.
+  4. After dropping in vemuallapalli, take a short walk to Home.
   
 * list of items to be purchased:
   * Groceries:
